@@ -1,0 +1,8 @@
+PhantomCorner assets
+
+This repository redistributes, unchanged, files licensed under the Apache License, Version 2.0 (see LICENSE):
+
+- model/movenet-lightning-4/ : MoveNet SinglePose Lightning v4 (TensorFlow.js graph model), Copyright Google LLC.
+  Source: https://tfhub.dev/google/tfjs-model/movenet/singlepose/lightning/4
+- voice/ : speech generated with Kokoro-82M (voice am_adam), Copyright hexgrad, Apache License 2.0.
+  Source: https://huggingface.co/hexgrad/Kokoro-82M
